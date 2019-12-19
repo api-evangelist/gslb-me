@@ -1,0 +1,54 @@
+{
+    "name": "GSLB.me",
+    "description": "GSLB.me is a powerful hosted Global Server Load Balancing solution with DNS-based geographical balancing, high availability and geographical routing",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1802-gslb-me.jpg",
+    "tags": [
+        "api provider",
+        "dns internet",
+        "have api",
+        "isp"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gslb-me\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GSLB.me",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1802-gslb-me.jpg",
+            "humanURL": "http:\/\/www.gslb.me\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gslb-me-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gslb-me-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.gslb.me\/feed"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GSLBme"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/docs.gslb.me\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.gslb.me\/"
+        }
+    ]
+}
